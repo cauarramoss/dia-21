@@ -16,24 +16,23 @@ body {
     width: 400px;
     height: 500px;
     margin: auto;
-    font-family: cursive;
+    font-family: arial;
     color: white;
 }
 
 .painel h2 {
-    font-size: 20px;
+    font-size: 15px;
     color: white;
 }
 
 #happy {
     height: 40px;
     width: 90px;
-    font-family: cursive;
+    font-family: arial;
     background-color: rgb(197, 118, 243);
     border: white;
     border-radius: 10px;
     color: white;
-    
 }
 
 #happy:hover {
